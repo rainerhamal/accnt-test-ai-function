@@ -1,0 +1,101 @@
+Date,Payee,Description,Spent,Received,Category
+2024-10-13,Netflix,Inventory restock,336.16,0.0,Insurance
+2024-08-26,IBM,Refund,778.47,0.0,Fixed Assets
+2024-12-14,Microsoft,Team outing,162.66,0.0,Insurance
+2025-03-01,IBM,Hardware purchase,508.67,0.0,Current Assets
+2025-01-09,Uber,Office supplies,618.25,0.0,Sales
+2024-12-22,Apple,Refund,281.82,0.0,Insurance
+2024-12-09,Amazon,Software license,0.0,2870.02,Advertising
+2025-03-24,Netflix,Client dinner,522.09,0.0,Current Assets
+2025-03-12,Walgreens,Consulting service,709.81,0.0,Insurance
+2025-01-14,Microsoft,Reimbursement,604.57,0.0,Current Assets
+2025-05-16,Amazon,Team outing,190.7,0.0,Fixed Assets
+2025-05-31,Paypal,Consulting service,336.86,0.0,Insurance
+2024-12-30,Amazon,Client dinner,208.44,0.0,Current Assets
+2024-10-21,Paypal,Reimbursement,0.0,3956.71,Fixed Assets
+2025-04-19,Paypal,Reimbursement,557.45,0.0,Utilities
+2024-08-24,Walgreens,Client dinner,838.36,0.0,Merchandise
+2024-10-20,Microsoft,Refund,111.71,0.0,Sales
+2025-04-25,Netflix,Monthly subscription,477.63,0.0,Meals & Entertainment
+2025-07-24,IBM,Consulting service,276.8,0.0,Current Assets
+2024-09-07,Apple,Software license,928.51,0.0,Advertising
+2024-10-26,Uber,Hardware purchase,614.04,0.0,Merchandise
+2024-12-20,Starbucks,Hardware purchase,338.91,0.0,Current Assets
+2025-02-13,Microsoft,Office supplies,394.33,0.0,Current Assets
+2024-08-20,Paypal,Team outing,0.0,765.3,Advertising
+2025-07-09,Microsoft,Software license,669.16,0.0,Insurance
+2025-01-11,Apple,Hardware purchase,66.85,0.0,Advertising
+2024-11-15,Paypal,Reimbursement,676.26,0.0,Insurance
+2024-12-22,Amazon,Hardware purchase,0.0,4382.21,Utilities
+2025-03-13,Paypal,Reimbursement,442.92,0.0,Meals & Entertainment
+2025-01-15,Walgreens,Monthly subscription,896.51,0.0,Fixed Assets
+2025-01-31,Microsoft,Refund,432.76,0.0,Sales
+2024-10-02,Netflix,Refund,720.17,0.0,Advertising
+2024-09-22,Paypal,Inventory restock,669.55,0.0,Sales
+2024-11-22,Starbucks,Inventory restock,949.95,0.0,Insurance
+2024-11-01,Uber,Reimbursement,836.06,0.0,Current Assets
+2025-07-12,Walgreens,Hardware purchase,681.68,0.0,Current Assets
+2024-11-12,Uber,Reimbursement,0.0,4588.19,Utilities
+2025-02-08,Amazon,Refund,60.4,0.0,Insurance
+2025-01-29,Walgreens,Refund,0.0,2354.63,Insurance
+2025-05-04,Starbucks,Consulting service,851.28,0.0,Merchandise
+2025-06-12,Paypal,Refund,32.5,0.0,Sales
+2025-06-13,Starbucks,Office supplies,142.04,0.0,Insurance
+2024-10-24,Starbucks,Hardware purchase,128.43,0.0,Advertising
+2025-07-21,Costco,Consulting service,302.9,0.0,Insurance
+2024-10-05,Amazon,Team outing,87.81,0.0,Insurance
+2024-12-25,Microsoft,Reimbursement,0.0,2262.54,Fixed Assets
+2025-04-27,IBM,Hardware purchase,0.0,3899.2,Meals & Entertainment
+2025-05-08,Microsoft,Consulting service,956.9,0.0,Utilities
+2024-12-01,IBM,Client dinner,172.34,0.0,Current Assets
+2025-07-21,Paypal,Office supplies,516.54,0.0,Fixed Assets
+2024-11-03,IBM,Client dinner,83.86,0.0,Sales
+2025-02-16,Starbucks,Software license,0.0,3391.54,Fixed Assets
+2025-02-21,Netflix,Client dinner,0.0,2025.09,Merchandise
+2025-01-19,Walgreens,Team outing,0.0,786.83,Advertising
+2025-01-26,Costco,Hardware purchase,846.44,0.0,Meals & Entertainment
+2024-10-15,Starbucks,Office supplies,0.0,4241.27,Sales
+2025-04-01,Walgreens,Team outing,365.72,0.0,Insurance
+2025-07-04,Uber,Refund,307.47,0.0,Meals & Entertainment
+2025-04-18,Walgreens,Consulting service,0.0,2252.95,Utilities
+2024-11-24,Microsoft,Office supplies,735.59,0.0,Insurance
+2025-02-26,Paypal,Office supplies,621.98,0.0,Current Assets
+2025-05-23,Paypal,Client dinner,596.41,0.0,Advertising
+2025-03-08,IBM,Client dinner,421.51,0.0,Current Assets
+2025-05-08,Paypal,Client dinner,130.89,0.0,Current Assets
+2024-09-09,Amazon,Reimbursement,0.0,2615.54,Advertising
+2024-09-09,Microsoft,Office supplies,528.25,0.0,Meals & Entertainment
+2025-02-17,Walgreens,Consulting service,0.0,2514.44,Sales
+2025-04-02,Netflix,Inventory restock,445.61,0.0,Insurance
+2024-12-28,Apple,Monthly subscription,763.57,0.0,Utilities
+2024-08-31,Starbucks,Software license,0.0,3114.22,Utilities
+2024-10-26,Walgreens,Inventory restock,676.62,0.0,Fixed Assets
+2025-01-17,Walgreens,Refund,0.0,252.98,Advertising
+2024-12-19,Uber,Reimbursement,645.61,0.0,Current Assets
+2024-12-02,Starbucks,Team outing,577.48,0.0,Fixed Assets
+2025-03-01,Paypal,Team outing,132.52,0.0,Meals & Entertainment
+2025-01-17,Walgreens,Monthly subscription,0.0,4923.38,Utilities
+2025-04-04,IBM,Client dinner,755.5,0.0,Utilities
+2025-02-05,Paypal,Refund,649.67,0.0,Advertising
+2025-06-06,Paypal,Refund,0.0,2679.11,Utilities
+2024-10-22,IBM,Consulting service,77.02,0.0,Fixed Assets
+2025-05-22,Walgreens,Software license,733.9,0.0,Merchandise
+2025-04-06,Starbucks,Team outing,874.88,0.0,Advertising
+2025-04-01,Netflix,Consulting service,0.0,2216.23,Utilities
+2025-06-02,Uber,Consulting service,0.0,1395.58,Current Assets
+2024-11-04,IBM,Inventory restock,241.15,0.0,Advertising
+2024-08-22,Uber,Reimbursement,364.73,0.0,Merchandise
+2024-09-12,Uber,Reimbursement,85.98,0.0,Merchandise
+2024-08-16,Uber,Office supplies,924.71,0.0,Utilities
+2025-03-28,IBM,Software license,739.52,0.0,Merchandise
+2025-03-30,Walgreens,Reimbursement,583.6,0.0,Merchandise
+2024-10-19,Apple,Consulting service,309.04,0.0,Sales
+2025-03-21,Starbucks,Refund,0.0,4745.06,Current Assets
+2024-12-10,Walgreens,Monthly subscription,40.48,0.0,Insurance
+2025-06-01,Apple,Office supplies,762.52,0.0,Merchandise
+2025-05-05,Walgreens,Reimbursement,296.66,0.0,Sales
+2025-03-21,Apple,Inventory restock,303.76,0.0,Sales
+2024-09-13,Starbucks,Inventory restock,112.08,0.0,Utilities
+2024-11-05,Costco,Software license,423.47,0.0,Meals & Entertainment
+2024-12-13,Microsoft,Consulting service,374.84,0.0,Meals & Entertainment
+2025-07-15,Costco,Software license,0.0,3860.67,Merchandise
