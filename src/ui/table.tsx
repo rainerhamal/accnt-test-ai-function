@@ -10,13 +10,13 @@ export default async function TransactionsTable ( {
     } )
 {
     const transactions = await fetchFilteredTransactions();
-    console.log( 'Fetched transactions:', transactions );
+    // console.log( 'Fetched transactions:', transactions );
 
     const payees = await fetchFilteredPayees();
-    console.log( 'Fetched transactions:', transactions );
+    // console.log( 'Fetched transactions:', transactions );
 
     const categories = await fetchFilteredCategories();
-    console.log( 'Fetched transactions:', transactions );
+    // console.log( 'Fetched transactions:', transactions );
 
 
     return (
