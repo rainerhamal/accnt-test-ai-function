@@ -46,3 +46,5 @@ A Next.js project that demonstrates AI-powered SQL query generation and executio
 ## License
 
 MIT
+
+
